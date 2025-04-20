@@ -71,3 +71,10 @@ The recommender system uses the MovieLens dataset which includes:
 1. Deploy the system and monitor real user interactions.
 2. Explore contextual recommendations by integrating factors such as time, device, mood.
 3. Integrate behavior data (rewatch rates, watch duration) for more tailored suggestions.
+
+## Authors
+- Brenda Chemutai
+- Antony Odhiambo
+- Evans Makau
+- Christine Kindena
+- John Mugambi
