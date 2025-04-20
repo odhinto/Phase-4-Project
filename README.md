@@ -27,18 +27,22 @@ The recommender system uses the MovieLens dataset which includes:
 - The top 3 genres with the highest number of rated movies are : **Drama**, **Comedy**, **Action**
   
   ![ratings_by_genre](./images/ratingsbygenre.png)
-  
+
+
 - Ratings skew positive: users rate movies they enjoy
 
   ![ratingskew](./images/ratingskew.png)
-  
+
+
 - Similar rating patterns between popular and obscure titles
 
   ![popularitypatterns](./images/patterns.png)
-  
+
+
 - Movie preferences tend to form clusters among users
 
   ![heatmap](./images/heatmap.png)
+
 
 ## Modelling
 
