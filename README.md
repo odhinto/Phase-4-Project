@@ -10,7 +10,7 @@ With an ever-growing library of content in the movie industry, users often find 
 - Improve content discovery and user satisfaction.
 
 ## Dataset overview
-The recommender system uses the MovieLens dataset which includes:
+The recommender system uses the [MovieLens](https://grouplens.org/datasets/movielens/latest/) dataset which includes:
 
 - **Movies**: 9,742 entries with titles, genres, release years
 - **Ratings**: User-movie interactions on a 5-point scale
