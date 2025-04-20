@@ -79,7 +79,7 @@ The recommender system uses the MovieLens dataset which includes:
 - Christine Kindena
 - John Mugambi
 
-## 📁 Repository Navigation
+## Repository Navigation
 
 ```bash
 ├── data/               # Raw MovieLens dataset files
