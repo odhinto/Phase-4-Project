@@ -78,3 +78,12 @@ The recommender system uses the MovieLens dataset which includes:
 - Evans Makau
 - Christine Kindena
 - John Mugambi
+
+## 📁 Repository Navigation
+
+```bash
+├── data/               # Raw MovieLens dataset files
+├── notebooks/          # Jupyter notebooks for data analysis and modeling
+├── README.md           # Project overview
+├── images/             # Visualizations
+└── presentation.pdf    # Final presentation slides
