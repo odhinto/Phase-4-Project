@@ -97,8 +97,9 @@ The recommender system uses the [MovieLens](https://grouplens.org/datasets/movie
 ## Repository Navigation
 
 ```bash
-├── data/               # Raw MovieLens dataset files
-├── notebooks/          # Jupyter notebooks for data analysis and modeling
-├── README.md           # Project overview
-├── images/             # Visualizations
-└── presentation.pdf    # Final presentation slides
+├── data/                                  # Raw MovieLens dataset files
+├── notebooks/                             # Jupyter notebooks for data analysis and modeling
+├── README.md                              # Project overview
+├── images/                                # Visualizations
+├── Group_10,_Phase_4,_Final_Project.pdf   # Final notebook pdf
+└── Slides on Movie Recommender.pdf        # Final presentation slides
